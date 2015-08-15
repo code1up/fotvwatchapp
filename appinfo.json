@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "alanjgorton@googlemail.com",
+    "longName": "FOTV",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "FOTV",
+    "uuid": "598365f2-3054-4039-bcde-ce91aecc85d8",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
