@@ -6,8 +6,8 @@ typedef enum {
   E_MATCHDAY_COMING_UP
 } E_MATCHDAY;
   
-typedef struct Match {
+typedef struct {
   char* awayTeam;
-};
+} Match;
   
 static Tuple* get_matches(E_MATCHDAY matchDay);
