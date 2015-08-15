@@ -1,16 +1,21 @@
 {
-    "appKeys": {},
+    "appKeys": {
+        "READY": 0
+    },
     "capabilities": [
         ""
     ],
     "companyName": "alanjgorton@googlemail.com",
-    "longName": "FOTV",
+    "longName": "Football on TV",
     "projectType": "native",
     "resources": {
         "media": []
     },
     "sdkVersion": "3",
     "shortName": "FOTV",
+    "targetPlatforms": [
+        "basalt"
+    ],
     "uuid": "598365f2-3054-4039-bcde-ce91aecc85d8",
     "versionLabel": "1.0",
     "watchapp": {
