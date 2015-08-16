@@ -10,4 +10,4 @@ typedef struct {
   char* awayTeam;
 } Match;
   
-static Tuple* get_matches(E_MATCHDAY matchDay);
+Tuple* get_matches(E_MATCHDAY matchDay);

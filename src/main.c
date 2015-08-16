@@ -8,7 +8,7 @@ typedef enum {
 } E_APP_MESSAGE_KEY;
 
 static void handle_app_message_ready() {
-  get_matches(E_MATCHDAY_TODAY);
+  // get_matches(E_MATCHDAY_TODAY);
 }
 
 static void in_received_handler(DictionaryIterator *iter, void *context) {
